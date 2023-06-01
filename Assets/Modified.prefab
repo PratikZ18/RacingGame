@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &39197107708129370
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Size.x
+      value: 1.7546539
+      objectReference: {fileID: 0}
+    - target: {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Size.y
+      value: 0.92346346
+      objectReference: {fileID: 0}
+    - target: {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Center.x
+      value: 0.008310318
+      objectReference: {fileID: 0}
+    - target: {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Center.y
+      value: 0.7319487
+      objectReference: {fileID: 0}
+    - target: {fileID: 1016151393840242557, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Center.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1057494946909100755, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 9000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1057494946909100755, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 90000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2716459193614891142, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 9000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2716459193614891142, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 90000
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3145262460232535540, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 9000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3145262460232535540, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 90000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Name
+      value: Free Racing Car (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795950753765878369, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 9000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4795950753765878369, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 90000
+      objectReference: {fileID: 0}
+    - target: {fileID: 7495443279060062592, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Drag
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+--- !u!4 &67268680230720247 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 28636839611146925, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &982391886720939208 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 948405438201742482, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &1019990011793369737 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 1057494946909100755, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &2682329746312267996 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 2716459193614891142, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &3111272680400256430 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 3145262460232535540, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3278450128617003720 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1892866458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3278450128617003720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f357b85536d030e4eb50ba8ad44bb54c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  motorForce: 1000
+  breakForce: 3000
+  maxSteerAngle: 30
+  frontLeftWheelCollider: {fileID: 2682329746312267996}
+  frontRightWheelCollider: {fileID: 4757457359839763003}
+  rearLeftWheelCollider: {fileID: 3111272680400256430}
+  rearRightWheelCollider: {fileID: 1019990011793369737}
+  frontLeftWheelTransform: {fileID: 3756320020984943352}
+  frontRightWheelTransform: {fileID: 982391886720939208}
+  rearLeftWheelTransform: {fileID: 9155780276276903380}
+  rearRightWheelTransform: {fileID: 67268680230720247}
+--- !u!4 &3756320020984943352 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3794951908810334882, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!146 &4757457359839763003 stripped
+WheelCollider:
+  m_CorrespondingSourceObject: {fileID: 4795950753765878369, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &9155780276276903380 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9188640840458259854, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 39197107708129370}
+  m_PrefabAsset: {fileID: 0}
